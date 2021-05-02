@@ -1,0 +1,44 @@
+.bgColor{
+    background-color: #121212;
+    height:90vh;
+}
+.section-tittle {
+    font-size: 100px;
+    color: #343434;
+    /* margin-left: 20px; */
+    font-weight: 700;
+}
+.about-title {
+    margin-top: -80px;
+    color: #fff;
+    margin-left: 50px;
+}
+.about-disc{
+    margin-top: 55px;
+    /* margin-left: 20px; */
+    margin-bottom: 1rem;
+    font-size: 16px;
+    color: #fff;
+
+}
+
+.custom-btn{
+    color: #fff;
+    background-color: #3d53cf;
+    border: none;
+    /* margin-left: 20px; */
+    padding:8px 20px
+}
+
+.social-link{
+    /* margin-left: 30px; */
+}
+.social-icon{
+    margin-right:20px;
+    font-size: 25px;
+    color: #fff;
+    
+}
+.marLeft{
+    margin-left:20px
+}
